@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7414946c-837c-42da-8458-7d96ba1735ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/amazon_page_objects/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/amazon_page_objects/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/amazon_page_objects/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/amazon_page_objects/ProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/amazon_page_objects/SearchResultsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/amazon_page_objects/SignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/amazon_page_objects/modules/ConfirmationMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/amazon_page_objects/modules/DeliverToConfirmationModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/amazon_page_objects/modules/DeliverToModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/amazon_page_objects/modules/SortByModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/amazon_page_objects/modules/page_locators/PageLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/driversetup/enumeration/SupportedBrowsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/driversetup/factory/WebDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/driversetup/invoker/WebDriverInvoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/driversetup/invoker/implementation/LocalChromeInvoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/driversetup/invoker/implementation/LocalFirefoxInvoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/driversetup/properties/converters/SupportedBrowserConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/driversetup/properties/holder/PropertyHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepdefinitions/BaseSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepdefinitions/HomePageSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepdefinitions/ProductPageSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepdefinitions/SearchResultsPageSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/stepdefinitions/SignInPageSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/browser.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/AmazonTestFeatures.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GIrIng3O3GT4TW2q7OsSq1qYiN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Tamas_Demeny/IdeaProjects/cucumber-tests/src/test/java/org/example/stepdefinitions",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tamas_Demeny\IdeaProjects\cucumber-tests\src\main\java\org\example\amazon_page_objects" />
+      <recent name="C:\Users\Tamas_Demeny\IdeaProjects\cucumber-tests\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Add a Laptop product to the cart">
+    <configuration name="Scenario: Add a Laptop product to the cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/AmazonTestFeatures.feature" />
+      <option name="GLUE" value="org.example.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber-tests" />
+      <option name="NAME_FILTER" value="^Add a Laptop product to the cart$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Add a Laptop product to the cart$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Add a Laptop product to the cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Changing Deliver To option" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/AmazonTestFeatures.feature" />
+      <option name="GLUE" value="org.example.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber-tests" />
+      <option name="NAME_FILTER" value="^Changing Deliver To option$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Changing Deliver To option$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Changing Deliver To option" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login with incorrect credentials" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/AmazonTestFeatures.feature" />
+      <option name="GLUE" value="org.example.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="cucumber-tests" />
+      <option name="NAME_FILTER" value="^Login with incorrect credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login with incorrect credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login with incorrect credentials" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Add a Laptop product to the cart" />
+        <item itemvalue="Cucumber Java.Scenario: Login with incorrect credentials" />
+        <item itemvalue="Cucumber Java.Scenario: Changing Deliver To option" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7414946c-837c-42da-8458-7d96ba1735ce" name="Changes" comment="" />
+      <created>1666086864223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666086864223</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
