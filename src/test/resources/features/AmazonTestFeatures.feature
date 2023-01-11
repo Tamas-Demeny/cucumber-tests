@@ -1,11 +1,13 @@
 Feature: Amazon Website Tests
 
+  @DeliverTo @TopBar @HT
   Scenario: Changing Deliver To option
     Given User opens up the Amazon Home Page
     When User clicks on Deliver To on Home Page, Deliver To module is opened
     And User selects delivery to Barbados in Deliver To module and clicks Done
     Then User Deliver To option, on Home Page is set to Barbados
 
+  @LoginNegative @TopBar
   Scenario Outline: Login with incorrect credentials
     Given User opens up the Amazon Home Page
     When User selects Sign In option on the Home Page
@@ -18,6 +20,7 @@ Feature: Amazon Website Tests
       | emailOrPhoneNr       |
       | qwerty@qwerty.ro     |
 
+  @AddProduct @TopBar @HT
   Scenario: Add a Laptop product to the cart
     Given User opens up the Amazon Home Page
     When User searches for keyboards and is sent to the Search Result page
